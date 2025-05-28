@@ -1,0 +1,51 @@
+{
+  "name": "hardlock-vault",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Hardin Irfan <hardinmail05@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://hardincode.github.io/secure-password-toolkit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardInCode/secure-password-toolkit.git"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "lucide-react": "^0.284.0",
+    "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.6.1",
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
