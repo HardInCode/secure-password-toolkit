@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/secure-password-toolkit/static/css/main.c43ec2b7.css",
-    "main.js": "/secure-password-toolkit/static/js/main.2ebc6878.js",
+    "main.css": "/secure-password-toolkit/static/css/main.944ba614.css",
+    "main.js": "/secure-password-toolkit/static/js/main.c8a6a136.js",
     "index.html": "/secure-password-toolkit/index.html",
-    "main.c43ec2b7.css.map": "/secure-password-toolkit/static/css/main.c43ec2b7.css.map",
-    "main.2ebc6878.js.map": "/secure-password-toolkit/static/js/main.2ebc6878.js.map"
+    "main.944ba614.css.map": "/secure-password-toolkit/static/css/main.944ba614.css.map",
+    "main.c8a6a136.js.map": "/secure-password-toolkit/static/js/main.c8a6a136.js.map"
   },
   "entrypoints": [
-    "static/css/main.c43ec2b7.css",
-    "static/js/main.2ebc6878.js"
+    "static/css/main.944ba614.css",
+    "static/js/main.c8a6a136.js"
   ]
 }
