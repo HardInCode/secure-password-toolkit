@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/secure-password-toolkit/static/css/main.5d243cb9.css",
+    "main.js": "/secure-password-toolkit/static/js/main.3e0d4620.js",
+    "index.html": "/secure-password-toolkit/index.html",
+    "main.5d243cb9.css.map": "/secure-password-toolkit/static/css/main.5d243cb9.css.map",
+    "main.3e0d4620.js.map": "/secure-password-toolkit/static/js/main.3e0d4620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d243cb9.css",
+    "static/js/main.3e0d4620.js"
+  ]
+}
